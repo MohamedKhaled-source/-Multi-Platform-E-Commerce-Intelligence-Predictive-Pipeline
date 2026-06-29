@@ -242,3 +242,9 @@ subprocess        Launching scraper process from inside the app
 **Mohamed Khaled Abdelhaq** · `202508546`  
 
 Zewail City University of Science and Technology — 2025
+
+## Copyright
+
+© 2026 Mohamed Khaled Abdelhaq. All rights reserved.
+
+This project is released under the MIT License. See the LICENSE file for details.
